@@ -1,0 +1,29 @@
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+C:\Users\Ali\source\repos\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.CoreCompileInputs.cache
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\Study\Computer Graphics\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe.config
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.exe
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\bin\Debug\PhotoEditor.pdb
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csprojAssemblyReference.cache
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Form1.resources
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.Properties.Resources.resources
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.csproj.GenerateResource.cache
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.exe
+D:\Extra\University\Semester # 06\Computer Graphics\Lab\PhotoEditor\PhotoEditor\obj\Debug\PhotoEditor.pdb
